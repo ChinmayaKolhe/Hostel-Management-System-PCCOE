@@ -34,7 +34,7 @@ A web-based Hostel Management System developed to streamline hostel administrati
 
 📁 Project Structure
 
-```bash
+```
 Hostel-Management-System/
 ├── admin/
 │   ├── dashboard.php
